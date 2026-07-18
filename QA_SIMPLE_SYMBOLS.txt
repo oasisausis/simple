@@ -1,0 +1,6 @@
+SIMPLE SYMBOL-FIRST WEBSITE QA
+
+HTML files checked: 15
+Issues found: 0
+
+All local links, assets, duplicate IDs and JavaScript syntax checks passed.

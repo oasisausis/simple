@@ -1,0 +1,11 @@
+IITB Fresher Guide QA report
+============================
+
+HTML pages checked: 15
+JavaScript syntax: checked with Node.js
+CSS syntax: checked with tinycss2
+Local links/assets: checked
+Duplicate IDs: checked
+Required deployment files: checked
+
+Outstanding issues: 0

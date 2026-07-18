@@ -1,0 +1,4 @@
+Compact Panels QA Report
+========================
+
+No issues found.
